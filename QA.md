@@ -12,7 +12,12 @@ You are requested to create acceptance tests scenarios to validate if coordinate
 
 > Some good tutorials to follow: [Java Cucumber Tutorial](https://www.youtube.com/watch?v=pD4B839qfos&list=PL_noPv5wmuO_t6yYbPfjwhJFOOcio89tI) and [Rest Assured](http://www.baeldung.com/rest-assured-tutorial)
 
-> Remember, Batman is very demanding, even with the test scenarios you create. Bugs found are welcome. Surprise him!
+> Remember, the requirements issued for the:
+[Back-end challenge](BACKEND.md)
+
+[Front-end challenge](FRONTEND.md)
+
+Batman is very demanding, even with the test scenarios you create. Bugs found are welcome. Surprise him!
 
 ### Batcave Supercomputer API
 
