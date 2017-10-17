@@ -6,7 +6,7 @@ Interface created for Batdevices have to show information about the possible att
 
 In this interface, Batman must be able to tell the Batcave's supercomputer the location (coordinate) of the recently found supervillain to identify which locations are most likely to be attacked.
 
-You are requested to create acceptance tests scenarios to validate if coordinates sent by batmobile GPS are returning precise information about villains within the [Gotham boundaries](https://gist.githubusercontent.com/pitteri/d56780d610cb8e0a43bfa94fc54b71cd/raw/dcdd965c84cd05d856ae32646be69868d4a80afa/gotham_bbox.json), or in a specific location such as the GCPD, for example.
+You are requested to create acceptance tests scenarios to validate if coordinates sent by batmobile GPS are returning precise information about villains within the [Gotham boundaries](https://gist.githubusercontent.com/pitteri/d56780d610cb8e0a43bfa94fc54b71cd/raw/dcdd965c84cd05d856ae32646be69868d4a80afa/gotham_bbox.json).
 
 > Automated tests should be created by using using [Rest Assured](http://rest-assured.io/) or [Cucumber for Java](https://cucumber.io/)
 
