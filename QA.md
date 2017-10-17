@@ -1,4 +1,4 @@
-# Front-end code challenge ![alt Batlogo](public/images/batlogo-small.png)
+# QA code challenge ![alt Batlogo](public/images/batlogo-small.png)
 
 Batman needs your help! A supervillain was found.
 
