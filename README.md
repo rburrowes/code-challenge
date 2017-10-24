@@ -10,6 +10,8 @@ According to your skills, we want to understand
 * how you appreciate quality
 * what technologies you feel comfortable using on a daily basis.
 
+If you are able to discover the 'blind spots', you will help Batman keep Gotham City safe.
+
 ## Choose your challenge
 
 We have specified the following challenges focusing on some specialist areas for software development.
