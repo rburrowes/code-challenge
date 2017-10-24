@@ -17,7 +17,7 @@ Remember, the requirements issued for the:
 
 [Front-end challenge](FRONTEND.md)
 
-Batman is a very demanding client, especially with the quality of his devices and the software they run. Bugs found are welcome. Confidence in his tools is a requirement. 
+Batman is a very demanding client, Alfred could confirm, especially with the quality of his devices and the software they run. Bugs found are welcome and could save lives. Confidence in his tools is a requirement. 
 Surprise him!
 
 ### Batcave Supercomputer API
